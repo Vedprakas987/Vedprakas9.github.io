@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.fb7b81e5.css",
-    "main.js": "/static/js/main.85ace71c.js",
+    "main.js": "/static/js/main.339fa29f.js",
     "static/js/787.d3befce1.chunk.js": "/static/js/787.d3befce1.chunk.js",
     "static/media/Resume_Vedprakash_Sinha24.pdf": "/static/media/Resume_Vedprakash_Sinha24.98c8f995e61183fcbf3d.pdf",
     "index.html": "/index.html",
     "main.fb7b81e5.css.map": "/static/css/main.fb7b81e5.css.map",
-    "main.85ace71c.js.map": "/static/js/main.85ace71c.js.map",
+    "main.339fa29f.js.map": "/static/js/main.339fa29f.js.map",
     "787.d3befce1.chunk.js.map": "/static/js/787.d3befce1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fb7b81e5.css",
-    "static/js/main.85ace71c.js"
+    "static/js/main.339fa29f.js"
   ]
 }
